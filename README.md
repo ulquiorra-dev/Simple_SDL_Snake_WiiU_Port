@@ -1,4 +1,4 @@
-# Simple Stake SLD WiiU Port
+# Simple Snake SDL WiiU Port
 This project is my first WiiU port!!!!
 
 ![](crapy_snake_port.png)
